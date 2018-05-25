@@ -9,6 +9,7 @@ class App extends Component {
     return (
       <div>
         <h1> Nokia Open Source Smart City project | Powered by FIWARE </h1> 
+        <h2> TEST </h2>
 
         <MapContainer google={this.props.google} />
       </div>
